@@ -1,6 +1,6 @@
 # Netflix Movies Analysis: Are Movies Getting Shorter?
 
-![(https://github.com/yanny-alt/Are-Netflix-Movies-Getting-Shorter/blob/main/images/redpopcorn.jpg)] <!-- Replace with your image link -->
+![](https://github.com/yanny-alt/Are-Netflix-Movies-Getting-Shorter/blob/main/images/redpopcorn.jpg) <!-- Replace with your image link -->
 
 ## Introduction
 
