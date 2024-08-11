@@ -40,7 +40,7 @@ The dataset used in this project, `netflix_data.csv`, contains information about
 - **description:** Description of the show
 - **genre:** Show genre
 
-You can download the dataset from the [repository link here](your_data_link_here).
+You can download the dataset from the [link here](https://github.com/yanny-alt/Are-Netflix-Movies-Getting-Shorter/blob/main/data%20sources/netflix_data.csv).
 
 ## Project Methodology
 
