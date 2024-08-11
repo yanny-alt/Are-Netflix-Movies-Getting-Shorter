@@ -73,7 +73,7 @@ The analysis provides evidence that Netflix movies may be getting shorter over t
 
 ## Acknowledgements
 
-Special thanks to the open-source community for providing datasets and resources that made this project possible.
+Special thanks to DataCamp for providing datasets and resources that made this project possible.
 
 ---
 
